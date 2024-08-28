@@ -6,7 +6,9 @@ Simple example for new users.
 Pre-generated VASP structure file: Tutorial_POSCAR.vasp, representing the tetragonal phase of BaTiO3.
 
 Usage example : ```python3 bei_mtg.py -c Ti -v O -i BaTiO3_tetra.vasp```
+
 Octahedral center atom (Ti) and vertex atom (O) must be set by -c and -v option.
+
 Structure file must be set by -i option.
 
 # Structure files
