@@ -7,9 +7,9 @@ Pre-generated VASP structure file: Tutorial_POSCAR.vasp, representing the tetrag
 
 Usage example : ```python3 bei_mtg.py -c Ti -v O -i BaTiO3_tetra.vasp```
 
-Octahedral center atom (Ti) and vertex atom (O) must be set by -c and -v option.
+- Octahedral center atom (Ti) and vertex atom (O) must be set by -c and -v option.
 
-Structure file must be set by -i option.
+- Structure file must be set by -i option.
 
 # Structure files
 Crystal_structure_KNO_with_Strain directory contains all POSCAR converged structure files used in "Enhanced polarization in epitaxially strained monoclinic potassium niobate for lead-free electromechanical applications, _J. Mater. Chem. C_ **9**, 13420 (2021)" work
