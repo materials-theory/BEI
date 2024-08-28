@@ -3,7 +3,7 @@ Bond Elongation Index (BEI), a bond-length-based index, for characterizing polyh
 
 # Examples/Tutorials – How to use
 Simple example for new users.
-Pre-generated VASP structure file: Tutorial_POSCAR.vasp, representing the tetragonal phase of BaTiO3.
+Pre-generated VASP structure file: Tutorial_POSCAR.vasp, representing the tetragonal phase of BaTiO<sub>3</sub>.
 
 Usage example : ```python3 bei_mtg.py -c Ti -v O -i BaTiO3_tetra.vasp```
 
