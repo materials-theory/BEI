@@ -365,5 +365,5 @@ if __name__ == '__main__':
 
 
 	t1 = time()
-	print ('\nDOS plot completed! Time Used: %.2f [sec]\n' % (t1 - t0))
+	print ('\ncompleted! Time Used: %.2f [sec]\n' % (t1 - t0))
 #-----------
