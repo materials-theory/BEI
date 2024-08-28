@@ -1,8 +1,8 @@
 # Distortion_BEI
-Bond Elongation Index for quantifying the anisotropic ferroelectric distortion using Python script
+Bond Elongation Index (BEI), a bond-length-based index, for characterizing polyhedral distortions of perovskite units with the specific purpose of quanterfying the anisotropic ferroelectric distortions using a Python script
 
 # Structure_files
-Crystal_structure_KNO_with_Strain directory contains all POSCAR converged structure files used in "Anisotropic structural deformation index for ferroelectric properties of strained KNbO3 perovskite polymorphs" work
+Crystal_structure_KNO_with_Strain directory contains all POSCAR converged structure files used in "Enhanced polarization in epitaxially strained monoclinic potassium niobate for lead-free electromechanical applications" work
 
 # Publication
-"Anisotropic structural deformation index for ferroelectric properties of strained KNbO3 perovskite polymorphs" by Woohyun Hwang, Seungjae Yoon, Ji-Hwan Lee, and Aloysius Soon (2021) [Under revision]
+W. Hwang, J.-H. Lee*, and A. Soon*, Enhanced polarization in epitaxially strained monoclinic potassium niobate for lead-free electromechanical applications, _J. Mater. Chem. C_ **9**, 13420 (2021)
