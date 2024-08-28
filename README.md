@@ -1,6 +1,12 @@
 # Bond Elongation Index (BEI) 
 Bond Elongation Index (BEI), a bond-length-based index, for characterizing polyhedral distortions of perovskite units with the specific purpose of quanterfying the anisotropic ferroelectric distortions using a Python script
 
+# Examples/Tutorials – How to use
+Simple example for new users.
+Pre-generated VASP structure file (POSCAR format) can be downloaded.
+
+Usage example : ```python3 bei_mtg.py -i BaTiO3_tetra.vasp -c Ti -v O```
+
 # Structure files
 Crystal_structure_KNO_with_Strain directory contains all POSCAR converged structure files used in "Enhanced polarization in epitaxially strained monoclinic potassium niobate for lead-free electromechanical applications, _J. Mater. Chem. C_ **9**, 13420 (2021)" work
 
